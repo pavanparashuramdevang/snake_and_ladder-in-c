@@ -17,3 +17,13 @@ you can change any of it in the code to your liking
 
 ## SNAPSHOTS
 
+### Start of program
+![program welcome screen photo](https://github.com/pavanparashuramdevang/snake_and_ladder-in-c/blob/main/snapshots/image_1.png?raw=true)
+### is used to represent first person
+![# is used to represent first person](https://github.com/pavanparashuramdevang/snake_and_ladder-in-c/blob/main/snapshots/image_2.png?raw=true)
+### is used to represent second person
+![$ is used to represent second person](https://github.com/pavanparashuramdevang/snake_and_ladder-in-c/blob/main/snapshots/image_3.png?raw=true)
+### & is used to represent both person in same cell
+![& is used to represent both person in same cell](https://github.com/pavanparashuramdevang/snake_and_ladder-in-c/blob/main/snapshots/image_4.png?raw=true)
+### end of program and ^ is used to represent snake : is used to represent ladder
+![end of program and ^ is used to represent snake : is used to represent ladder](https://github.com/pavanparashuramdevang/snake_and_ladder-in-c/blob/main/snapshots/image_5.png?raw=true)
